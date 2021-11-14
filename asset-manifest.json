@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/doblesesays/todos-machine-react/static/css/main.45014429.chunk.css",
-    "main.js": "/doblesesays/todos-machine-react/static/js/main.d60d154f.chunk.js",
-    "main.js.map": "/doblesesays/todos-machine-react/static/js/main.d60d154f.chunk.js.map",
-    "runtime-main.js": "/doblesesays/todos-machine-react/static/js/runtime-main.812d54dd.js",
-    "runtime-main.js.map": "/doblesesays/todos-machine-react/static/js/runtime-main.812d54dd.js.map",
-    "static/js/2.7a03a42c.chunk.js": "/doblesesays/todos-machine-react/static/js/2.7a03a42c.chunk.js",
-    "static/js/2.7a03a42c.chunk.js.map": "/doblesesays/todos-machine-react/static/js/2.7a03a42c.chunk.js.map",
-    "index.html": "/doblesesays/todos-machine-react/index.html",
-    "static/css/main.45014429.chunk.css.map": "/doblesesays/todos-machine-react/static/css/main.45014429.chunk.css.map",
-    "static/js/2.7a03a42c.chunk.js.LICENSE.txt": "/doblesesays/todos-machine-react/static/js/2.7a03a42c.chunk.js.LICENSE.txt",
-    "static/media/check.38f596e6.svg": "/doblesesays/todos-machine-react/static/media/check.38f596e6.svg",
-    "static/media/delete.a2ce781d.svg": "/doblesesays/todos-machine-react/static/media/delete.a2ce781d.svg"
+    "main.css": "./static/css/main.45014429.chunk.css",
+    "main.js": "./static/js/main.d60d154f.chunk.js",
+    "main.js.map": "./static/js/main.d60d154f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.55eb203b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.55eb203b.js.map",
+    "static/js/2.7a03a42c.chunk.js": "./static/js/2.7a03a42c.chunk.js",
+    "static/js/2.7a03a42c.chunk.js.map": "./static/js/2.7a03a42c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.45014429.chunk.css.map": "./static/css/main.45014429.chunk.css.map",
+    "static/js/2.7a03a42c.chunk.js.LICENSE.txt": "./static/js/2.7a03a42c.chunk.js.LICENSE.txt",
+    "static/media/check.38f596e6.svg": "./static/media/check.38f596e6.svg",
+    "static/media/delete.a2ce781d.svg": "./static/media/delete.a2ce781d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.812d54dd.js",
+    "static/js/runtime-main.55eb203b.js",
     "static/js/2.7a03a42c.chunk.js",
     "static/css/main.45014429.chunk.css",
     "static/js/main.d60d154f.chunk.js"
